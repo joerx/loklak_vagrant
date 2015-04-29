@@ -6,7 +6,7 @@ You need to have [Vagrant](https://www.vagrantup.com/) and VirtualBox installed.
 
 ## Memory
 
-Since Loklak server has pretty high memory requirements, this box is configured to use 3GB of RAM. Make sure your host system has enough memory left!
+Since Loklak server has pretty high memory requirements, this box is configured to use 3GB of RAM. Make sure your host system has enough memory (any host with less than 6GB isn't likely to work)
 
 # Usage
 
